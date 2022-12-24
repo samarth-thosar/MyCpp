@@ -1,0 +1,1 @@
+    // LinearSearch(arr,3);
